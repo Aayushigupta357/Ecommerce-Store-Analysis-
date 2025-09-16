@@ -20,7 +20,7 @@ The primary objective of this project is to analyze and visualize e-commerce sal
 
 ## Screenshot
 
-![Ecommerce Dashboard]((Ecommerce-Sales-Dashboard-Power-BI.png)
+![Ecommerce Dashboard](Ecommerce-Sales-Dashboard-Power-BI.png)
 
 ## Data Analysis & Insights
 
