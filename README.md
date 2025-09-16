@@ -20,7 +20,7 @@ The primary objective of this project is to analyze and visualize e-commerce sal
 
 ## Screenshot
 
-![Ecommerce Dashboard](https://www.novypro.com/create_project/ecommerce-sales-dashboard-7)
+![Ecommerce Dashboard]((Ecommerce-Sales-Dashboard-Power-BI.png)
 
 ## Data Analysis & Insights
 
